@@ -8,7 +8,6 @@ const Game = () => {
   const playersArray = Array.from({ length: numberOfPlayers });
   return (
     <>
-      <div>ScrabbleApp</div>
       {playersArray.map((_, i) => (
         <PlayerTable key={i} />
       ))}
