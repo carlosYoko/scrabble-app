@@ -67,4 +67,8 @@ button:focus-visible {
     background-color: #f8f8f8;
     border: 1px solid;
   }
+  input {
+    background-color: #f8f8f8;
+    border: 1px solid rgb(214, 214, 214);
+  }
 }
