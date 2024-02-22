@@ -48,6 +48,7 @@
   border: 1px solid slateblue;
   border-radius: 10px;
 }
+
 input,
 select {
   text-align: center;
@@ -56,6 +57,11 @@ select {
   font-size: 20px;
   border: none;
   border-radius: 10px;
+}
+
+input {
+  background-color: #f8f8f8;
+  border: 1px solid rgb(214, 214, 214);
 }
 
 select {
@@ -81,5 +87,5 @@ li {
 
 #title {
   font-size: 50px;
-  color: slateblue;
+  color: rgb(90, 201, 205);
 }
