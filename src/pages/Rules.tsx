@@ -6,7 +6,7 @@ const Rules = () => {
       <div className="rules-container">
         <ul>
           <li>
-            El que empeiza primero no tiene el beneficio de doble punto de
+            El que empieza primero no tiene el beneficio de doble punto de
             palabra.
           </li>
           <li>
